@@ -1,5 +1,7 @@
 # Data-VN-text-segmentation
-Vietnamese wiki data for text segmentation [here](https://drive.google.com/open?id=1AifvA7VKipLsYLfcAkit8QNtOzvD-JUB)
+* Vietnamese wiki data for text segmentation 
+ * [Data](https://drive.google.com/open?id=1AifvA7VKipLsYLfcAkit8QNtOzvD-JUB)
+ * [presentation](https://github.com/huutiendang/Seminar-Topic/blob/master/Textseg.pdf)
 # Data construction 
   * number of docs : 66050
   * train = 39584 ratio 0.6
